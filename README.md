@@ -1,4 +1,4 @@
 # introduccion-git
 introducción a la plataforma
 
-[enlace(este es un enlace)]
+[enlace(http://www.este_es_un_enlace.com)]
